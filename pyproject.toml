@@ -1,0 +1,7 @@
+[tool.logging]
+main_loggers = ["main_logger","db_logger"]
+main_logger_level = "DEBUG"
+db_logger_level = "DEBUG"
+app_logger_level = "DEBUG"
+console_logging = true
+
